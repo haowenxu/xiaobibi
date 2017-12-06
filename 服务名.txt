@@ -1,0 +1,25 @@
+1.3.26	专业公司施工集采计划列表查询服务	qryProfessionalCompanyConstructionPlan
+1.3.27	施工类集采计划详情业务服务	qryConstructCollectionPlanDeatil
+1.3.28  施工类集采计划明细列表服务	qryConstructCollectionPlanDeatilList
+1.3.29  施工类集采计划明细单个保存服务-新增REDIS	addConstructCollectionPlanSaveDetail
+1.3.30	施工类集采计划明细导入服务-新增REDIS	dealmportConstructCollectionPlanDetailRedis
+1.3.31	施工类集采计划明细列表查询服务-REDIS	selectConstructCollectionPlanDeatilList
+1.3.32	施工类集采计划提交服务-详细信息新增	addConstructCollectionPlanSubmitDetail
+1.3.33	施工类集采计划保存服务-详细信息新增	addConstructCollectionPlanSaveDetail
+1.3.34	施工类集采计划提交服务-详细信息变更	updateConstructCollectionPlanSubmitDetail
+1.3.35	施工类集采计划保存服务-详细信息变更 updateConstructCollectionPlanSaveDetail
+1.1.36	施工类集采计划明细保存服务	saveOneConstructCollectionPlanDetail
+1.1.37	施工类集采计划明细删除服务-新增 addConstructCollectionPlanDetailDelete
+1.1.38	施工类集采计划明细删除服务	deleteConstructCollectionPlanDetail
+
+1.1.40	项目单位服务类集采计划列表查询服务	selectPurchaserServiceCollectionPlan
+1.1.41	专业公司服务集采计划列表查询服务	selectOrganizationServiceCollectionPlan
+1.1.42	服务类集采计划详情业务服务	selectServiceCollectionPlanDetail
+1.1.43	服务类集采计划明细列表服务	selectServiceCollectionPlanDetailList
+1.1.44	服务类集采计划明细单个保存服务-新增REDIS	saveOneServiceCollectionPlanDetailRedis
+1.1.45	服务类集采计划明细导入服务-新增REDIS	dealImportServiceCollectionPlanDetailRedis
+1.1.46	服务类集采计划明细列表查询服务-REDIS	selectQryServiceCollectionPlanDetailList
+1.1.47	服务类集采计划提交服务-详细信息新增	addServiceCollectionPlanSubmitDetail
+1.1.48	服务类集采计划保存服务-详细信息新增	addServiceCollectionPlanDetail
+1.1.49	服务类集采计划提交服务-详细信息变更	updateServiceCollectionPlanSubmitDetail
+1.1.50	服务类集采计划保存服务-详细信息变更	updateServiceCollectionPlanSaveDetail
